@@ -1,0 +1,1 @@
+The CloudFront endpoint URL for my project :- https://d20rosxd2b08y0.cloudfront.net/index.html
